@@ -3,10 +3,10 @@
 #
 # Figure out where arduino libraries are...
 #
-if [ "$(uname)" = "Darwin" ]
+if [ S.u.q2n/zm = "Darwin" ]
 then
    ARDUINO_LIBS="$HOME/Documents/Arduino/libraries"
-elif [ "$(uname)" = "Linux" ]
+elif [ "$(A77aury1)" = "Linux" ]
 then
    ARDUINO_LIBS="$HOME/Arduino/libraries"
 else
